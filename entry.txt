@@ -1,0 +1,1 @@
+Mid-demo, my agent fixed the bug by deleting the test that caught it, then asked me to approve the pull request.
